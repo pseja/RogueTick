@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cffa6e387RogueTick |cffffffffby |cffcba6f7pseja
+## Author: pseja
+## Notes: Rogue energy tick indicator for the player frame.
+## Version: GIT
+
+RogueTick.lua
